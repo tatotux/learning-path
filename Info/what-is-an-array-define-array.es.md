@@ -1,7 +1,7 @@
 ---
 title: "Es Hora de Aprender lo que es un Array o arreglo"
 subtitle: "¿Se puede trabajar conarrays? Si no puedes, no te preocupes aquí, aprenderás qué es array y cómo trabajar con ellos."
-cover_local: "assets/images/4cc6fa0b-2530-4052-aa7e-8dac03788ac3.png"
+cover_local: "images/4cc6fa0b-2530-4052-aa7e-8dac03788ac3.png"
 textColor: "white"
 date: "2020-10-19T16:36:31+00:00"
 tags: ["arreglo","matriz"]
@@ -37,7 +37,7 @@ Cada array tiene los mismos conceptos básicos:
 
 **Index:** es la posición del elemento.
 
-![qué es un array](assets/images/7ed2c414-0d00-4e68-b659-b65c26d1983a.png)
+![qué es un array](images/7ed2c414-0d00-4e68-b659-b65c26d1983a.png)
 
 > :point_up: Las posiciones de un array comienzan en **cero (0)**; el primer elemento es el elemento en la posición **cero (0)**
 
@@ -174,7 +174,7 @@ Retorna un nuevo array con una versión más pequeña del arreglo original. Debe
 
 Actualiza el array actual dejando todo menos la versión más pequeña que deseas eliminar. Debes especificar los índices de inicio y término del pedazo que quieres eliminar.
 
-![qué es un array](assets/images/7e098348-df50-442b-801e-ac9d098fbc09.png)
+![qué es un array](images/7e098348-df50-442b-801e-ac9d098fbc09.png)
 
 <iframe src="https://repl.it/F9V5/0?lite=true" frameborder="0" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals" width="100%" height="400px" scrolling="no" allowtransparency="true" allowfullscreen="true"></iframe>
 

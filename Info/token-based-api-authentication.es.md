@@ -1,7 +1,7 @@
 ---
 title: "Autenticación basada en Token en tu API"
 subtitle: "Aprende cómo implementar un sistema autenticación que le permita a los usuarios iniciar y cerrar sesión de tu sitio web y de tu API"
-cover_local: "assets/images/98208ebb-dcb3-4e40-9ae4-4ec886213f97.jpeg"
+cover_local: "images/98208ebb-dcb3-4e40-9ae4-4ec886213f97.jpeg"
 textColor: "white"
 date: "2020-10-19T16:36:31+00:00"
 tags: ["authentication", "security", "backend"]
@@ -11,7 +11,7 @@ status: "published"
 
 ## Por qué implementar la autenticación basada en tokens
 
-<img src="assets/images/authentication.png" align="right" />
+<img src="images/authentication.png" align="right" />
 
 Hay varias formas de crear una capa de autenticación en las aplicaciones web pero hoy nos vamos a centrar en la Autenticación Basada en Token o Token Based Authentication por varias razones:
 
@@ -94,7 +94,7 @@ La forma más sencilla de implementar la autenticación en tu base de datos y en
 4. El endpoint `POST /token` devolverá el token al front-end si todo está bien.
 5. Luego, en cada uno de los otros endpoints de tu base de datos tendrás que validar si el token existe en el header de la petición y si existe, tendrás que validarlo.
 
-![Autentication workflow](assets/images/authentication-diagram.png)
+![Autentication workflow](images/authentication-diagram.png)
 
 ### Every token is a session
 

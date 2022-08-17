@@ -1,7 +1,7 @@
 ---
 title: "Tutorial de Bootstrap: Aprende Bootstrap 4 en 10 minutos"
 subtitle: "¡Después de decadas de lucha, la luz ha llegado! Con este tutorial de Bootstrap, diseñar un sitio web va a ser pan comido. Es absurdo, y casi imposible, pensar en hacer un sitio web sin un framework de CSS como Bootstrap."
-cover_local: "assets/images/4cc6fa0b-2530-4052-aa7e-8dac03788ac3.png"
+cover_local: "images/4cc6fa0b-2530-4052-aa7e-8dac03788ac3.png"
 textColor: "white"
 date: "2020-10-19T16:36:30+00:00"
 tags: ["bootstrap"]
@@ -15,7 +15,7 @@ Hay una luz al final del túnel y no es Chuck Norris con una linterna. ¡Finalme
 
 Dos chicos, mientras trabajaban en Twitter, estaban sufriendo los mismos problemas que nosotros con HTML y CSS. Hartos de esta situación (como tú y yo), decidieron crear una **hoja base que puede importarse en cualquier sitio web**. Esto hizo el trabajo de todos los desarrolladores front-end 4 veces más fácil.
 
-![bootstrap 4](assets/images/335ed387-cbf9-4ffa-9529-1ccf2084e393.jpeg)
+![bootstrap 4](images/335ed387-cbf9-4ffa-9529-1ccf2084e393.jpeg)
 
 Además, Bootstrap te da una gran cantidad de elementos nuevos que vas a querer usar siempre y que actualmente no existen en CSS+HTML: Los componentes de Bootstrap.
 
@@ -32,13 +32,13 @@ Los creadores de Bootstrap, replicaron el mismo concepto que tienen las `<tables
 Esto es una fila: <div class="row">
 Esto es una columna: <div class"col–sm–x">
 ```
-![bootstrap tutorial](assets/images/3884f515-dd7a-48f2-b238-9e2ec26de02d.png)
+![bootstrap tutorial](images/3884f515-dd7a-48f2-b238-9e2ec26de02d.png)
 
 Bootstrap ha dividido el ancho de la pantalla en  `12 slots` (espacios) - cada uno de ellos con un ancho de fila total  de 8.33%. El tamaño de una columna, puede ir de entre 1 y 12 slots o espacios.
 
 Por otro lado, las columnas fueron hechas para vivir dentro de las filas (como pasa entre `<td>` y `<tr>`),  siempre necesitas abrir una fila antes de abrir una columna.  Todas las columnas en una fila deben sumar un máximo de 12 espacios.
 
-![bootstrap tutorial](assets/images/1b7f5dc4-029a-475d-8bfd-fac1b739966c.png)
+![bootstrap tutorial](images/1b7f5dc4-029a-475d-8bfd-fac1b739966c.png)
 
 ## Nuestro primer ejemplo de diseño:
 
@@ -70,7 +70,7 @@ Es muy fácil decidir como se verá tu página web en pantallas de diferente tam
 
 Vamos a configurar el diseño (usando las clases de columnas xs, sm, md y lg) para estas dos filas en todos los dispositivos al mismo tiempo:
 
-![bootstrap 4](assets/images/e15c594c-9b46-4c27-bf5a-a5bbb5ef952a.png)
+![bootstrap 4](images/e15c594c-9b46-4c27-bf5a-a5bbb5ef952a.png)
 
 ```html
 <!-- Apila las columnas en el móvil ocupando el ancho completo y el otro medio ancho --> 
@@ -138,7 +138,7 @@ Todos los desarrolladores tienen que simular estos elementos adicionales cada ve
 
 Cuando importas Bootstrap en tu página web, tendrás un nuevo conjunto de componentes a tu disposición. Esta es una pequeña parte de esos elementos:
 
-![bootstrap 4](assets/images/8e9ff37a-28f7-4179-8f5d-9278ff7efd55.png)
+![bootstrap 4](images/8e9ff37a-28f7-4179-8f5d-9278ff7efd55.png)
 
 
 ### Estos son los componentes más usados e importantes de Bootstrap:
@@ -150,7 +150,7 @@ Esto es tan popular que se encuentra en el 99% de los menús de todos los sitios
 
 Aquí hay un ejemplo de como se ve un NavBar en un sitio web:
 
-![bootstrap tutorial](assets/images/6351de1c-6d90-4502-8823-4b751981db9f.png)
+![bootstrap tutorial](images/6351de1c-6d90-4502-8823-4b751981db9f.png)
 
 > :link:[**Lee más sobre el "NavBar" aquí**](https://getbootstrap.com/docs/4.0/components/navbar/)
 
@@ -194,7 +194,7 @@ Este es probablemente el componente de Bootstrap más usado, cada sitio web tien
 
 Aquí hay un ejemplo de como puede verse un sitio web con una "Card":
 
-![bootstrap 4](assets/images/39d36b52-330f-4ce9-beab-2004e325749c.png)
+![bootstrap 4](images/39d36b52-330f-4ce9-beab-2004e325749c.png)
 
 > :link: [**Lee más sobre la "Card" aquí**](https://getbootstrap.com/docs/4.0/components/card/)
 
@@ -217,7 +217,7 @@ Todo el mundo odia el modal, es muy molesto, ¡siempre pregunta si te quieres in
 
 Así es como se ve modal por defecto con Bootstrap.
 
-![bootstrap 4](assets/images/6bcba673-a543-4bf1-a80b-083914b91bef.png)
+![bootstrap 4](images/6bcba673-a543-4bf1-a80b-083914b91bef.png)
 
 > :link:[**Lee más sobre el "Modal" aquí**](https://getbootstrap.com/docs/4.0/components/modal/)
 

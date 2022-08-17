@@ -1,7 +1,7 @@
 ---
 title: "Aprendiendo a programar con Python"
 subtitle: "Python es un lenguaje de programación con el crecimiento más rápido en el mundo, hace casi todo lo que puedas pensar y la mejor noticia es que es un de los más fáciles de aprender"
-cover_local: "assets/images/4cc6fa0b-2530-4052-aa7e-8dac03788ac3.png"
+cover_local: "images/4cc6fa0b-2530-4052-aa7e-8dac03788ac3.png"
 textColor: "white"
 status: "published"
 date: "2020-10-19T12:36:31-04:00"
@@ -30,7 +30,7 @@ Una variable es un contenedor en el que puedes almacenar cualquier dato. Por eje
 edad = 24
 ```
 
-![qué es javascript](assets/images/ecb49b67-f513-49b3-bd4a-dd7cc44e9bce.gif)
+![qué es javascript](images/ecb49b67-f513-49b3-bd4a-dd7cc44e9bce.gif)
 
 Casi con cualquier lenguaje de programación puedes crear tantas variables como quieras o necesites. Para empazar debes **declarar el nombre de esa variable** usando el término *var* seguido de un nombre _único_ (relativo al documento/proyecto).
 
@@ -113,7 +113,7 @@ Luego, abrirás una llave y escribirás el código que tu función siempre debe 
 
 **Nota:**  Para retornar algo, usa la palabra `return` en cualquier momento dentro del contenido de su función (dentro de las llaves).
 
-![learn to code in javascript](assets/images/0c4fa020-02f6-4ec0-bfeb-a6292145a153.gif)
+![learn to code in javascript](images/0c4fa020-02f6-4ec0-bfeb-a6292145a153.gif)
 
 ```python
 def multiply (param1, param2):
