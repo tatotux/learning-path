@@ -1,7 +1,7 @@
 ---
 title: "¿Qué es HTML? Es tiempo de aprender HTML y su estructura"
 subtitle: "Pero ¿qué es HTML realmente? HTML es para las páginas web lo que son los pilares para los edificios.  Aqui aprenderás lo básico de HTML - la base de la web."
-cover_local: "../../assets/images/4cc6fa0b-2530-4052-aa7e-8dac03788ac3.png"
+cover_local: "assets/images/4cc6fa0b-2530-4052-aa7e-8dac03788ac3.png"
 textColor: "white"
 date: "2020-10-19T16:36:31+00:00"
 tags: ["html"]
@@ -21,12 +21,12 @@ HTML te permite dividir la información del sitio web en partes: header, title, 
 
 Originalmente, los navegadores solo podían interpretar HTML, las páginas web eran sencillas y no se usaba CSS o JavaScript.  Un sitio web era un simple documento de texto plano con los elementos típicos que cualquier documento de Word tiene: títulos, listas de viñetas, párrafos, etc.
 
-![qué es html](../../assets/images/85cedee2-3a9f-49b5-8bc8-d72e3fd739fc.png)
+![qué es html](assets/images/85cedee2-3a9f-49b5-8bc8-d72e3fd739fc.png)
 
 
 ## Sintáxis del HTML: Todo es `<Tags> ` o etiquetas.
 
-![qué es html](../../assets/images/78296f64-547f-4928-a8da-14cb24e836b9.gif)
+![qué es html](assets/images/78296f64-547f-4928-a8da-14cb24e836b9.gif)
 
 ¿Recuerdas que Internet trabaja solo con texto?
  
@@ -116,7 +116,7 @@ Vamos a simular el pensamiento de un navegador: Imaginemos que una persona en su
 
  Como ya sabemos, dicha página va a contener, por lo menos, los siguientes tags:
 
-  ![learn html](../../assets/images/e8d3d49d-8c7e-4bc2-88e0-15b95a8ccc54.png)
+  ![learn html](assets/images/e8d3d49d-8c7e-4bc2-88e0-15b95a8ccc54.png)
 
 |**Nombre**   |**Tags**   |**Descripción**   |
 |:----------|:----------|:-----------------|
@@ -146,7 +146,7 @@ Recuerda -por quinceava vez- que una página web es un… ¡documento de texto! 
 
 Veamos ahora en qué se compara un website con un documento de Word:
 
-<before-after width="500px" before="../../assets/images/f2021d8d-193d-4482-b189-ae0005b1bd88.png" after="../../assets/images/8e339149-97ae-4b15-ba59-a3ddf3777525.png" /></before-after>
+<before-after width="500px" before="assets/images/f2021d8d-193d-4482-b189-ae0005b1bd88.png" after="assets/images/8e339149-97ae-4b15-ba59-a3ddf3777525.png" /></before-after>
 
 Las etiquetas más utilizadas dentro del `<body>` de un documento HTML son las siguientes:
 
@@ -189,5 +189,5 @@ Acabas de aprender lo esencial para realizar una página web como se hacía en 1
 
 HTML tiene muchísimos más tags y también tiene una nueva versión llamada HTML5. Otra vez, no te preocupes, todo eso lo **aprenderás** en las próximas lecciones para que hagas páginas web hermosas (gracias a CSS) y con interacción (Gracias a los formularios y JavaScript) ¡¡Para eso es que estamos acá!!
 
-![learn html](../../assets/images/ed1c57e1-5c67-4bf1-96ed-1fb2353fb2ca.gif)
+![learn html](assets/images/ed1c57e1-5c67-4bf1-96ed-1fb2353fb2ca.gif)
 
