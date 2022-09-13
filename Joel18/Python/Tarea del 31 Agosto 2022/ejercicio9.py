@@ -8,10 +8,8 @@ lista = [11, 22, 33, 44, 55]
 suma = 0
 
 for a in lista:
-    if a % 2 == 0:
-        "nada"
-    else:
-     suma = suma + a
+    if a % 2 != 0:
+        suma = suma + a
 
 print(suma)
 

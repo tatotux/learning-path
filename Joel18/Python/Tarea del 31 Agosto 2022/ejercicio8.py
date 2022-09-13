@@ -8,6 +8,6 @@ suma = 0
 
 for a in lista:
     if a % 2 == 0:
-     suma = suma + a
+        suma = suma + a
 
 print(suma)

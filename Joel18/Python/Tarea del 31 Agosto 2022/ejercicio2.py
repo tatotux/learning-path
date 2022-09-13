@@ -4,9 +4,7 @@ numero = [12,-20,0]
 for a in numero:
     if a > 0:
         print("positivo")
+    elif a < 0:
+        print("negativo")
     else:
-        if a < 0:
-            print("negativo")
-        else:
-            a = 0
-            print("cero")
+        print("cero")
