@@ -4,8 +4,6 @@
 
 lista = [11,22,33,44,55,66,77,88,99,100]
 
-cantidad_de_elementos = 0
-
 cantidad_de_elementos = len(lista)
 
 print(lista," = " ,cantidad_de_elementos)
