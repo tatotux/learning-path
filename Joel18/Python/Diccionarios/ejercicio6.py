@@ -1,0 +1,1 @@
+# Ejericio 6: Escribir un programa que lea un diccionario y cree una copia del mismo sin los elementos cuya llave sea un número par.

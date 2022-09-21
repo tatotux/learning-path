@@ -1,0 +1,1 @@
+# Ejericio 9: Escribir un programa que lea un diccionario y cree una copia del mismo sin los elementos cuyo valor sea un número impar.

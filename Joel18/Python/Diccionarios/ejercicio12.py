@@ -1,0 +1,1 @@
+# Ejericio 12: Escribir un programa que lea un diccionario y traer 2 valores usando las llaves.
